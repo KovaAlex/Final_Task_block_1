@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/bin/Debug/net6.0/Coding_Task
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/bin/Debug/net6.0/Coding_Task.deps.json
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/bin/Debug/net6.0/Coding_Task.runtimeconfig.json
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/bin/Debug/net6.0/Coding_Task.dll
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/bin/Debug/net6.0/Coding_Task.pdb
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.AssemblyInfo.cs
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.dll
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/refint/Coding_Task.dll
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.pdb
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/Coding_Task.genruntimeconfig.cache
+/Users/macbook/Desktop/для учебы/Final_Task_block_1/Final_Task_block_1/Coding_Task/obj/Debug/net6.0/ref/Coding_Task.dll
